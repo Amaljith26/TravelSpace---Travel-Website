@@ -16,7 +16,7 @@ The project is built using Django, and the main folder of the project is `projec
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Amaljith26/TravelSpace.git
+   git clone https://github.com/Amaljith26/TravelSpace---Travel-Website.git
 
 2. Navigate to the project directory:
    cd project3
